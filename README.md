@@ -91,11 +91,7 @@ The dataset includes:
 
 ---
 
-## **📩 Contact**
-For any queries, feel free to connect!  
 
-📧 Email: [your-email@example.com]  
-📢 LinkedIn: [Your Profile]  
 
----
+
 
